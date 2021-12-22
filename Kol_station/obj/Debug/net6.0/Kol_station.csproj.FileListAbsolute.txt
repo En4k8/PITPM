@@ -1,0 +1,13 @@
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\obj\Debug\net6.0\Kol_station.GlobalUsings.g.cs
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\obj\Debug\net6.0\Kol_station.csproj.AssemblyReference.cache
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\obj\Debug\net6.0\Kol_station.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\obj\Debug\net6.0\Kol_station.AssemblyInfoInputs.cache
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\obj\Debug\net6.0\Kol_station.AssemblyInfo.cs
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\obj\Debug\net6.0\Kol_station.csproj.CoreCompileInputs.cache
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\bin\Debug\net6.0\Kol_station.deps.json
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\bin\Debug\net6.0\Kol_station.dll
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\bin\Debug\net6.0\ref\Kol_station.dll
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\bin\Debug\net6.0\Kol_station.pdb
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\obj\Debug\net6.0\Kol_station.dll
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\obj\Debug\net6.0\ref\Kol_station.dll
+C:\Users\Cosmo\source\repos\3 laba pitpm\Kol_station\obj\Debug\net6.0\Kol_station.pdb

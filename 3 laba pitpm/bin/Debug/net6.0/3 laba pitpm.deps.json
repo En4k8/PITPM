@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3 laba pitpm/1.0.0": {
+        "dependencies": {
+          "Kol_station": "1.0.0"
+        },
+        "runtime": {
+          "3 laba pitpm.dll": {}
+        }
+      },
+      "Kol_station/1.0.0": {
+        "runtime": {
+          "Kol_station.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3 laba pitpm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kol_station/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
