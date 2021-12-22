@@ -14,7 +14,7 @@ namespace Kol_station
                 double D1 = 2 * R1;
                 double D2 = 2 * R2;
                 double D3 = 2 * R3;
-                double C = Math.Pow(R1, 2.5) + Math.Pow(R2, 1.5) + Math.Pow(R3, 0.5);
+                double C = Math.Pow(D1, 2.5) + Math.Pow(D2, 1.5) + Math.Pow(D3, 0.5);
                 int N = Convert.ToInt32(L / C);
                 Console.WriteLine("Количество станций:");
                 Console.WriteLine(N);
